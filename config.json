@@ -1,0 +1,15 @@
+{
+    "name": "My Name",
+    "email": "isulyshka@mail.ru",
+    "username": "isulyshka@mail.ru",
+    "password": "literatyra",
+    "imap": {
+        "host": "imap.mail.ru",
+        "port": 443,
+        "secure": true
+    },
+    "smtp": {
+        "host": "smtp.mail.ru",
+        "ssl": true
+    }
+}

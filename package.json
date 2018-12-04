@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "emailjs": "^2.2.0",
+    "express": "^4.16.4",
+    "imap": "^0.8.19",
+    "mail-listener2": "^0.3.1",
+    "mailparser": "^2.4.3",
+    "smtp-server": "^3.4.7",
+    "vk-auth": "^1.0.6"
+  }
+}

@@ -42,8 +42,6 @@ vkAuth.on('auth', function(tokenParams) {
 })
     }
 });
-    //}
- 
   
 app.get("/", function(request, response){
     response.send("Главная страница");
